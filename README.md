@@ -2,6 +2,8 @@
 
 <p align="center"><img width=700 height=20 src="https://media.tenor.com/LwUPIkcU-z0AAAAj/rui-kamishiro-divider.gif"></p>
 
+
+<p align="center">$$\color{#B84CC2}{\mathit{"I think dumb things are frickin' cool"}}$$</p>
 <p align="center">$$\color{#B84CC2}{\texttt{"I think dumb things are frickin' cool, and I ... AM ... FREEEEEEEEEEEEE !"}}$$</p>
 <p align="center">$$\color{#B84CC2}{\texttt{\textit{"I think dumb things are frickin' cool, and I ... AM ... FREEEEEEEEEEEEE !"}}}$$</p>
 
