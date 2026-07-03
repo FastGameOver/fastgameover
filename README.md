@@ -1,4 +1,4 @@
-<h1 align="center">SIGMA NATION: KURAIS LONE WOLF CORNER</h1>
+<h1 align="center">$$\texttt{SIGMA NATION: KURAIS LONE WOLF CORNER}$$</h1>
 
 <p align="center"><img width=700 height=20 src="https://media.tenor.com/LwUPIkcU-z0AAAAj/rui-kamishiro-divider.gif"></p>
 
