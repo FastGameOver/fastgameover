@@ -2,9 +2,7 @@
 
 <p align="center"><img width=700 height=20 src="https://media.tenor.com/LwUPIkcU-z0AAAAj/rui-kamishiro-divider.gif"></p>
 
-<p align="center">$$\color{#B84CC2}{\textsf{"I think dumb things are frickin' cool, and I ... AM ... FREEEEEEEEEEEEE !"}}$$</p>
-
-<p style="font-size: 20px; color: #B84CC2;font-family: Courier New" align="center"><i>"I think dumb things are frickin' cool, and I ... AM ... FREEEEEEEEEEEEE !"</i></p>
+$${\color{#B84CC2}"Iㅤthinkㅤdumbㅤthingsㅤareㅤfrickin'ㅤcool,ㅤandㅤIㅤ...ㅤAMㅤ...ㅤFREEEEEEEEEEEEEㅤ!"}$$
 
 <p align="center"><img width=750  src="https://media1.tenor.com/m/_9GU3_awIiQAAAAd/uzi-good-morning-awake.gif"></p>
 
