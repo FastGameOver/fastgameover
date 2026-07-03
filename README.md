@@ -11,4 +11,4 @@
 
 <p align="center"><img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"></p>
 
-<p align="right"><a href="https://static.wikia.nocookie.net/deltarune/images/e/e5/Egg_item.png/revision/latest?cb=20181130200255"><img width=50 src="https://deltarune.wiki/images/Man_overworld_tree.gif?cb=15l8og&h=thumb.php&f=Man_overworld_tree.gif"></a></p>
+<p align="right"><a href="https://fastgameover.github.io/fastgameover/"><img width=50 src="https://deltarune.wiki/images/Man_overworld_tree.gif?cb=15l8og&h=thumb.php&f=Man_overworld_tree.gif"></a></p>
