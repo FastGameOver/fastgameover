@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">SIGMA NATION: KURAIS LONE WOLF CORNER</h1>
 
-<!--
-**FastGameOver/fastgameover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img width=700 height=20 src="https://media.tenor.com/LwUPIkcU-z0AAAAj/rui-kamishiro-divider.gif"></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p style="font-size: 20px; color: #B84CC2;font-family: Courier New" align="center"><i>"I think dumb things are frickin' cool, and I ... AM ... FREEEEEEEEEEEEE !"</i></p>
+
+<p align="center"><img width=750  src="https://media1.tenor.com/m/_9GU3_awIiQAAAAd/uzi-good-morning-awake.gif"></p>
+
+<p style="font-size: 20px;font-family: Courier New" align="center"><i>⋆⭒˚.⋆  18 years old ⌇ C + H free ⋆.˚⭒⋆</i></p>
+
+<p align="center"><img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"></p>
+
+<p align="right"><a href="https://static.wikia.nocookie.net/deltarune/images/e/e5/Egg_item.png/revision/latest?cb=20181130200255"><img width=50 src="https://deltarune.wiki/images/Man_overworld_tree.gif?cb=15l8og&h=thumb.php&f=Man_overworld_tree.gif"></a></p>
