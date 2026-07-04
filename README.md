@@ -30,5 +30,3 @@ $${\color{#6B706F}(ClickㅤtheㅤSchmongusㅤtoㅤhyperlink)}$$
     <td><a href="https://steamcommunity.com/id/KUR41_TH3D3M0N/"><img width=125 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"></a></td>
   </tr>
 </table>
-
-<p align="right"><a href="https://fastgameover.github.io/fastgameover/"><img width=50 src="https://deltarune.wiki/images/Man_overworld_tree.gif?cb=15l8og&h=thumb.php&f=Man_overworld_tree.gif"></a></p>
