@@ -8,6 +8,10 @@ $${\color{#B84CC2}"Iㅤthinkㅤdumbㅤthingsㅤareㅤfrickin'ㅤcool,ㅤandㅤI�
 
 <p style="font-size: 20px;font-family: Courier New" align="center"><i>⋆⭒˚.⋆  18 years old ⌇ C + H free ⋆.˚⭒⋆</i></p>
 
+<br>
+
+<p align="center"> ‧͙⁺˚*･༓☾ㅤ $${Myㅤsocialsㅤ!}$$ ㅤ☽༓･*˚⁺‧͙ </p>
+
 <p align="center"><img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"> <img width=100 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"></p>
 
 <p align="right"><a href="https://fastgameover.github.io/fastgameover/"><img width=50 src="https://deltarune.wiki/images/Man_overworld_tree.gif?cb=15l8og&h=thumb.php&f=Man_overworld_tree.gif"></a></p>
