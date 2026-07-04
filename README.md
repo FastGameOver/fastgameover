@@ -16,11 +16,11 @@ $${\color{#6B706F}(ClickㅤtheㅤSchmongusㅤtoㅤhyperlink)}$$
 
 <table align="center" cellpadding="0" cellspacing="20" border="0">
   <tr>
-    <td><p align="center">Strawpage</p></td>
-    <td><p align="center">Twitta</p></td>
-    <td><p align="center">Instagram</p></td>
-    <td><p align="center">Twitch</p></td>
-    <td><p align="center">Steam</p></td>
+    <td><p align="center">☆ Strawpage ☆</p></td>
+    <td><p align="center">☆ Twitta ☆</p></td>
+    <td><p align="center">☆ Instagram ☆</p></td>
+    <td><p align="center">☆ Twitch ☆</p></td>
+    <td><p align="center">☆ Steam ☆</p></td>
   </tr>
   <tr>
     <td><a href="https://kur41l0v3s.straw.page/"><img width=125 src="https://gif.fxtwitter.com/tweet_video/HLl2hjPXsAAM0R8.webp"></a></td>
